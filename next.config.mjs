@@ -4,10 +4,10 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-  output: 'export',
-  basePath: '/ejemplos-de-flujos-automatizados-con--ia',
     unoptimized: true,
   },
+  output: 'export',
+  basePath: '/ejemplos-de-flujos-automatizados-con--ia',
 }
 
 export default nextConfig
